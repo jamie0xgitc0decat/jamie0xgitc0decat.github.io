@@ -9,7 +9,7 @@ SITEURL = ''
 PATH = 'content'
 
 TIMEZONE = 'Asia/Hong_Kong'
-THEME = 'pelican-fg5co-marble'
+THEME = 'pelican-fh5co-marble'
 DEFAULT_LANG = 'en'
 
 # Feed generation is usually not desired when developing
